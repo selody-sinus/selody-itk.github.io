@@ -76,6 +76,9 @@ span{
   padding-right:30px;
 }
 
+.contents-item img{
+  width:250px;
+}
 
 .contents-item p{
   font-size:24px;
